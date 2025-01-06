@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+./denoise.py binary
+./get_protein_position.py denoise_binary
+./back_to_color.py virus_image
+
+rm -rf color.jpeg transparent_prediction.jpeg

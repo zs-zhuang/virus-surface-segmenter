@@ -1,0 +1,6 @@
+#!/bin/bash
+
+./extract_features_real.py virus_image 7
+
+mv position_* feature_* ../
+

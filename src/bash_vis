@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+./visualize_prediction_2class.py virus_image
+rm -rf transparent_prediction.jpeg color_stemcell.jpeg
+

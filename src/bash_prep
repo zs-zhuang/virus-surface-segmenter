@@ -1,0 +1,17 @@
+#!/bin/bash
+
+
+./extract_train_features.py virus_image 7  1 good
+./extract_train_features.py virus_image 7 -1 bad
+
+cat feature_train_good feature_train_bad > train_feature_data
+cat target_train_good target_train_bad > train_target_data
+
+./split_train_half.py
+
+mv part1_train_* part2_train_* ../
+
+#head -2 feature_train_good
+#head -2 feature_train_bad
+
+#mv train* ../
