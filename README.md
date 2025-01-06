@@ -1,7 +1,7 @@
 virus-surface-segmenter
 ===========
 
-<img src="https://github.com/zs-zhuang/virus-surface-segmenter/blob/main/images/original.JPG"> <imag src="https://github.com/zs-zhuang/virus-surface-segmenter/blob/main/images/result3.JPG">
+<img src="https://github.com/zs-zhuang/virus-surface-segmenter/blob/main/images/original.JPG"> <img src="https://github.com/zs-zhuang/virus-surface-segmenter/blob/main/images/result3.JPG">
 
 # Summary
 
