@@ -1,6 +1,8 @@
 virus-surface-segmenter
 ===========
 
+<img src="https://github.com/zs-zhuang/virus-surface-segmenter/blob/main/images/original.JPG"> <imag src="https://github.com/zs-zhuang/virus-surface-segmenter/blob/main/images/result3.JPG">
+
 # Summary
 
 This repository contains scripts that segment images of stem cell colonies on petri dishes (see example original and result images).
